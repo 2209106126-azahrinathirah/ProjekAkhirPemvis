@@ -1,0 +1,45 @@
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\mysql.data.dll
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\2209106126_Andi_Zahrina_Athirah_Ahmad_Posttest4.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\2209106126_Andi_Zahrina_Athirah_Ahmad_Posttest4.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+c:\users\asus\documents\visual studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Kamar.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Penyewa.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Transaksi.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Pembayaran.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.CetakStruk.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Dashboard_Admin.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.FormLogin.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.FormRegistrasi.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Dashboard_Penyewa.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.exe
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.pdb
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\bin\Debug\WindowsApplication16.xml
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\2209106126_Andi_Zahrina_Athirah_Ahmad_Posttest4.vbprojResolveAssemblyReference.cache
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Dashboard_Admin.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Dashboard_Penyewa.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.FormLogin.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.FormRegistrasi.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Kamar.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Penyewa.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Transaksi.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Pembayaran.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Resources.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\2209106126_Andi_Zahrina_Athirah_Ahmad_Posttest4.vbproj.GenerateResource.Cache
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.Keluhan.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.FormDataKeluhan.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\WindowsApplication16\WindowsApplication16\obj\Debug\WindowsApplication16.DataPenyewa.resources
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\Kelompok4_C2\WindowsApplication16\bin\Debug\WindowsApplication16.exe.config
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\Kelompok4_C2\WindowsApplication16\obj\Debug\WindowsApplication16.exe
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\Kelompok4_C2\WindowsApplication16\obj\Debug\WindowsApplication16.xml
+D:\01-MY LESSON\ARSIP S4\PV\Visual Studio 2012\Projects\Kelompok4_C2\WindowsApplication16\obj\Debug\WindowsApplication16.pdb
